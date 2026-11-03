@@ -22,7 +22,7 @@
 - 🎯 Currently focusing on building real-world projects and sharpening my fundamentals
 - 🌱 Knows: React, full-stack development, System Design, Machine Learning, LLM
 - 🤝 Open to collaborating on web and ML projects
-- 💬 Ask me about: MERN Stack, System Design, LLM, Python, web development, ML basics
+- 💬 Ask me about: JavaScript, Python, web development, ML basics
 
 ---
 
@@ -65,8 +65,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shrijeet-Ambastha&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrijeet-Ambastha&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -80,8 +80,7 @@
 <p align="center">
   <a href="https://github.com/Shrijeet-Ambastha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/shrijeet-ambastha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
- <a href="mailto:ambasthashrijeet@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <!-- <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a> -->
+  <a href="mailto:ambasthashrijeet@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center"><i>⭐ If you like my work, consider giving a repo a star!</i></p>
