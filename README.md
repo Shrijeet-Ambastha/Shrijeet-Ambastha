@@ -33,6 +33,14 @@
 | Machine Learning | TuteDude | 2026 | [View](https://drive.google.com/file/d/1UOG1Bk598DQDrr2ZK5n0fkQda3HvdGo9/view?usp=sharing) |
 | System Design | TuteDude | 2026 | [View](https://drive.google.com/file/d/1fSSjO2q_7_qSWFuED-RKldogIwS1wfFq/view?usp=sharing) |
 | AWS Architect | Amazon Web Services | 2026 | [View](https://drive.google.com/file/d/1wY_ppbEgKDqQX99J-4V_2CXtgTTqkhd4/view?usp=sharing) |
+| Entrepreneurship Certification | Wadhwani Foundation | - | [View](https://drive.google.com/file/d/13Ze6bBu-4ML5ID1S8_lyApj210aif7l_/view?usp=sharing) |
+
+
+##  Experience
+
+| Role | Organization | Certificate |
+|------|--------------|-------------|
+| Intern | Tata | [View](https://drive.google.com/file/d/1vUWxEkImPJKHO8CMWoZd55QdAAc4bJzL/view?usp=sharing) |
 
 ##  Tech Stack
 
