@@ -1,6 +1,6 @@
 <!-- Save this as README.md in a public repo named exactly: Shrijeet-Ambastha -->
 
-<h1 align="center">Hi there, I'm Shrijeet Ambastha 👋</h1>
+<h1 align="center">Hi there, I'm Shrijeet Ambastha </h1>
 
 <p align="center">
   <b>B.Tech Student · Web Developer · Python & ML Enthusiast</b><br/>
