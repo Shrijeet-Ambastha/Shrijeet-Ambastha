@@ -30,9 +30,9 @@
 
 | Certification | Issued By | Year | Credential |
 |---------------|-----------|------|------------|
-|1 Machine Learning | Issuer TuteDude | 2026 | [View]([https://link-to-certificate](https://drive.google.com/file/d/1UOG1Bk598DQDrr2ZK5n0fkQda3HvdGo9/view?usp=sharing)) |
-|2 System Design | Issuer TuteDude | 2026 | [View]([https://link-to-certificate](https://drive.google.com/file/d/1fSSjO2q_7_qSWFuED-RKldogIwS1wfFq/view?usp=sharing)) |
-|3 AWS Architect | Issuer Amazon Web Services | 2026 | [View]([https://link-to-certificate](https://drive.google.com/file/d/1wY_ppbEgKDqQX99J-4V_2CXtgTTqkhd4/view?usp=sharing)) |
+| Machine Learning | TuteDude | 2026 | [View](https://drive.google.com/file/d/1UOG1Bk598DQDrr2ZK5n0fkQda3HvdGo9/view?usp=sharing) |
+| System Design | TuteDude | 2026 | [View](https://drive.google.com/file/d/1fSSjO2q_7_qSWFuED-RKldogIwS1wfFq/view?usp=sharing) |
+| AWS Architect | Amazon Web Services | 2026 | [View](https://drive.google.com/file/d/1wY_ppbEgKDqQX99J-4V_2CXtgTTqkhd4/view?usp=sharing) |
 
 ##  Tech Stack
 
