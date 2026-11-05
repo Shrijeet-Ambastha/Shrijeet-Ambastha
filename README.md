@@ -85,9 +85,9 @@
   <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=Shrijeet-Ambastha&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+</p> -->
 
 ---
 
