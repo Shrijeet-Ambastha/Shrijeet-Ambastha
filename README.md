@@ -76,6 +76,8 @@
 | [🪪 TRF Visitor Pass](https://github.com/Shrijeet-Ambastha/TRF-Visitor-pass) | Generates an e-pass for visitors entering TRF Ltd, capturing the required visitor information. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | [🔍 Semantic Search System](https://github.com/Shrijeet-Ambastha/semantic-search-system) | Uses vector embeddings to retrieve results faster and more relevantly. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [🍔 Food Delivery Time Predictor](https://github.com/Shrijeet-Ambastha/food-delivery-time-predictor) | Predicts expected delivery time based on multiple factors. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| [💁‍♂️Repo Assistor]([https://github.com/Shrijeet-Ambastha/food-delivery-time-predictor](https://github.com/Capstone-TEAM-VITAP/Capstone-VibeLearning)) |Assistance for git repo. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) Link:https://tinyurl.com/CodeAi-1|
+
 
 ---
 
